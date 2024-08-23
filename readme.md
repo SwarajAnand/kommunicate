@@ -1,9 +1,11 @@
-# 🚀 Solution Engineer Task
+# 🚀 kommunicate
 
 This repository contains the solutions for the Solution Engineer Task, covering HTML/CSS, JavaScript functions, and a project description. Below are the details for each task.
 
 ## 🌐 Hosted Links
 You can view the hosted solutions for each task using the following links:
+
+[Hosted Link 🔗](https://swarajanand.github.io/kommunicate/)
 
 ## The other Question are in the -> JS -> SCRIPT File 
 
